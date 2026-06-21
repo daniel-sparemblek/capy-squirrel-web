@@ -1,0 +1,6 @@
+{
+  "name": "Secret Code Postcard Gallery",
+  "description": "An elegant, interactive 3D postcard gallery of couple memories locked behind a secret code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
