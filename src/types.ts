@@ -19,7 +19,7 @@ export interface GallerySettings {
 export const DEFAULT_POSTCARDS: PostcardData[] = [
   {
     id: "pc-1",
-    imageUrl: "/images/776f8d65-dc19-4897-ae87-027cb4afe415.png",
+    imageUrl: "./images/776f8d65-dc19-4897-ae87-027cb4afe415.png",
     title: "Postcard from Brussels",
     date: "May 16, 2026",
     location: "Brussels, Belgium",
@@ -27,7 +27,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-2",
-    imageUrl: "/images/capy_taking_lint.png",
+    imageUrl: "./images/capy_taking_lint.png",
     title: "Bellybutton Lint Production",
     date: "October 12, 2024",
     location: "Hairy Belly",
@@ -35,7 +35,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-3",
-    imageUrl: "/images/WhatsApp Image 2026-06-22 at 00.06.30.jpeg",
+    imageUrl: "./images/WhatsApp Image 2026-06-22 at 00.06.30.jpeg",
     title: "Squirrel Protect",
     date: "April 28th, 2026",
     location: "All video calls",
@@ -43,7 +43,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-4",
-    imageUrl: "/images/ChatGPT Image Jun 19, 2026, 09_40_23 PM.png",
+    imageUrl: "./images/ChatGPT Image Jun 19, 2026, 09_40_23 PM.png",
     title: "Even in the rain, Capy protects",
     date: "April 23, 2026",
     location: "Forest in Bedtime Story",
@@ -51,7 +51,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-5",
-    imageUrl: "/images/ChatGPT Image Jun 19, 2026, 09_40_57 PM.png",
+    imageUrl: "./images/ChatGPT Image Jun 19, 2026, 09_40_57 PM.png",
     title: "Hihi's passport",
     date: "April 9, 2026",
     location: "Manila Zoo",
@@ -59,7 +59,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-6",
-    imageUrl: "/images/WhatsApp Image 2026-04-21 at 02.35.51.jpeg",
+    imageUrl: "./images/WhatsApp Image 2026-04-21 at 02.35.51.jpeg",
     title: "Postcard from Bogota",
     date: "April 20, 2026",
     location: "Bogota, Colombia",
@@ -67,7 +67,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-7",
-    imageUrl: "/images/ChatGPT Image Jun 19, 2026, 11_47_30 PM.png",
+    imageUrl: "./images/ChatGPT Image Jun 19, 2026, 11_47_30 PM.png",
     title: "On the beach with our hybrids",
     date: "June 19, 2026",
     location: "Croatia",
@@ -75,7 +75,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-8",
-    imageUrl: "/images/ChatGPT Image Apr 21, 2026, 02_05_09 AM.png",
+    imageUrl: "./images/ChatGPT Image Apr 21, 2026, 02_05_09 AM.png",
     title: "Capy Protect",
     date: "Sometime in April",
     location: "All video calls",
@@ -83,7 +83,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-9",
-    imageUrl: "/images/ChatGPT Image Jun 19, 2026, 09_43_09 PM.png",
+    imageUrl: "./images/ChatGPT Image Jun 19, 2026, 09_43_09 PM.png",
     title: "Flying Capy Protect",
     date: "Sometime in April",
     location: "Airplane",
@@ -91,7 +91,7 @@ export const DEFAULT_POSTCARDS: PostcardData[] = [
   },
   {
     id: "pc-10",
-    imageUrl: "/images/ChatGPT Image Jun 19, 2026, 09_44_25 PM.png",
+    imageUrl: "./images/ChatGPT Image Jun 19, 2026, 09_44_25 PM.png",
     title: "Early Date",
     date: "Sometime May 2026",
     location: "Elisa Cafe",
